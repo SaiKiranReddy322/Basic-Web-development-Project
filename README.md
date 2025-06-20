@@ -1,5 +1,4 @@
-# Bingo game 
-Basic Web development Project
+Bingo Game
 # 🎯 Bingo Game Website
 
 A fun and interactive **Bingo Game** built using **HTML, CSS, and JavaScript**. This simple web-based version of Bingo generates random numbers and allows players to mark them off their cards, simulating the classic game experience right in your browser!
