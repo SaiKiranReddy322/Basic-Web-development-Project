@@ -1,4 +1,4 @@
-# Basic-Web-development-Project
+# Bingo game 
 Basic Web development Project
 # 🎯 Bingo Game Website
 
